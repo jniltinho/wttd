@@ -1,0 +1,16 @@
+{
+  "venv": "/home/nilton/Projetos/wttd/bin/python", 
+  "name": "WTTD", 
+  "license": "MIT License", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".css", 
+    ".json", 
+    ".js"
+  ], 
+  "project-type": "Django App", 
+  "description": "Curso de Django"
+}
