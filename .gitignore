@@ -1,0 +1,11 @@
+## Folders
+bin
+include
+lib
+lib64  
+
+## Files
+*.pyc
+comandos_git.sh
+.directory
+
