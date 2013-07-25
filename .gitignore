@@ -2,10 +2,10 @@
 bin
 include
 lib
-lib64  
+lib64
 
 ## Files
 *.pyc
 comandos_git.sh
 .directory
-
+.nja
